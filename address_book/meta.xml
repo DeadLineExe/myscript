@@ -1,0 +1,8 @@
+﻿<meta>
+    <info author="DeadLineExe" description="addressbook" version="1.0.0" type="script"></info>
+    
+	<script src="client.lua" type="client"/>
+	<script src="client_util.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+	
+</meta>

@@ -1,0 +1,8 @@
+ <meta>
+    <info author="DeadLineExe" name="Idle Screen" version="1.0.0" type="script"/>
+	
+    <script src="client.lua" type="client" />
+    <file src="logo.png" />
+
+    <download_priority_group>0</download_priority_group>
+</meta>
